@@ -1,7 +1,7 @@
 variables:
-  location: "northeurope"
+  location: "canadacentral"
   ManagementGroupPrefix: "contoso"
-  serviceConnectionName: "AMBA-Service-Connection"
+  serviceConnectionName: "arm-using-mi"
 
 pool:
   vmImage: ubuntu-latest
