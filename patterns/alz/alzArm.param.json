@@ -72,7 +72,7 @@
       "value": "id-amba-prod-001"
     },
     "managementSubscriptionId": {
-      "value": ""
+      "value": "0f40df37-5147-49f5-8c7d-b39c4381ad5c"
     },
     "ALZMonitorResourceGroupName": {
       "value": "rg-amba-monitoring-001"
