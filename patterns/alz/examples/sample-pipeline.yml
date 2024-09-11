@@ -1,6 +1,6 @@
 variables:
   location: "canadacentral"
-  ManagementGroupPrefix: ""
+  ManagementGroupPrefix: "11354cb2-7fff-464b-9ece-c5113ed58cf1"
   serviceConnectionName: "arm-using-mi"
 
 pool:
