@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -78,7 +78,7 @@
       "value": "rg-amba-monitoring-001"
     },
     "ALZMonitorResourceGroupLocation": {
-      "value": "eastus"
+      "value": "canadacentral"
     },
     "ALZMonitorResourceGroupTags": {
       "value": {
