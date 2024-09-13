@@ -2550,7 +2550,7 @@
           "value": "true"
         },
         "VMPercentMemoryThreshold": {
-          "value": "30"
+          "value": "20"
         },
         "VMPercentMemoryOperator": {
           "value": "GreaterThan"
