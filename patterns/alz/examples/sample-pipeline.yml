@@ -1,7 +1,7 @@
 variables:
   location: "canadacentral"
-  ManagementGroupPrefix: "11354cb2-7fff-464b-9ece-c5113ed58cf1"
-  serviceConnectionName: "arm-using-spn-automatic"
+  ManagementGroupPrefix: "alz-intermediate"
+  serviceConnectionName: "arm-using-autospn-to-intermediatemg"
 
 pool:
   vmImage: ubuntu-latest
