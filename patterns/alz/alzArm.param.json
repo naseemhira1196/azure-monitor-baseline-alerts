@@ -2550,7 +2550,7 @@
           "value": "true"
         },
         "VMPercentMemoryThreshold": {
-          "value": "disable"
+          "value": "disabled"
         },
         "VMPercentMemoryOperator": {
           "value": "GreaterThan"
