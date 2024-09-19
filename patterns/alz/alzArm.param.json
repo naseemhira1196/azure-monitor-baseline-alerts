@@ -63,7 +63,7 @@
       "value": "No"
     },
     "bringYourOwnUserAssignedManagedIdentity": {
-      "value": "No"
+      "value": "Yes"
     },
     "bringYourOwnUserAssignedManagedIdentityResourceId": {
       "value": ""
