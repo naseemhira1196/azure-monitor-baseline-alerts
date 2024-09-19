@@ -2544,13 +2544,13 @@
           "value": "00:10:00"
         },
         "VMPercentMemoryPolicyEffect": {
-          "value": "deployIfNotExists"
+          "value": "disabled"
         },
         "VMPercentMemoryAlertState": {
           "value": "true"
         },
         "VMPercentMemoryThreshold": {
-          "value": "disabled"
+          "value": "10"
         },
         "VMPercentMemoryOperator": {
           "value": "GreaterThan"
