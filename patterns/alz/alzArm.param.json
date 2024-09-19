@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "platformManagementGroup": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "IdentityManagementGroup": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "managementManagementGroup": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "connectivityManagementGroup": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "LandingZoneManagementGroup": {
-      "value": "11354cb2-7fff-464b-9ece-c5113ed58cf1"
+      "value": "alz-intermediate"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
