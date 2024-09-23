@@ -2547,7 +2547,7 @@
           "value": "deployIfNotExists"
         },
         "VMPercentMemoryAlertState": {
-          "value": "false"
+          "value": "true"
         },
         "VMPercentMemoryThreshold": {
           "value": "10"
