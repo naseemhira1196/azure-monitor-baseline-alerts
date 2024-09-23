@@ -2511,7 +2511,7 @@
           "value": "deployIfNotExists"
         },
         "VMPercentCPUAlertState": {
-          "value": "true"
+          "value": "false"
         },
         "VMPercentCPUThreshold": {
           "value": "85"
@@ -2547,7 +2547,7 @@
           "value": "deployIfNotExists"
         },
         "VMPercentMemoryAlertState": {
-          "value": "false"
+          "value": "true"
         },
         "VMPercentMemoryThreshold": {
           "value": "10"
