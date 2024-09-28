@@ -1,7 +1,7 @@
 variables:
   location: "canadacentral"
   ManagementGroupPrefix: "alz-intermediate"
-  serviceConnectionName: "managedidentity001"
+  serviceConnectionName: "tenant-auto-spn"
 
 pool:
   vmImage: ubuntu-latest
