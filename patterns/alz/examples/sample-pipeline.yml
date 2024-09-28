@@ -1,7 +1,7 @@
 variables:
   location: "canadacentral"
   ManagementGroupPrefix: "alz-intermediate"
-  serviceConnectionName: "arm-using-mi"
+  serviceConnectionName: "managedidentity001"
 
 pool:
   vmImage: ubuntu-latest
