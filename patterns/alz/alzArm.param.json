@@ -21,43 +21,43 @@
       "value": "alz-intermediate"
     },
     "enableAMBAConnectivity": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAIdentity": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAManagement": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAServiceHealth": {
       "value": "Yes"
     },
     "enableAMBANotificationAssets": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAHybridVM": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAKeyManagement": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBALoadBalancing": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBANetworkChanges": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBARecoveryServices": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAStorage": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAVM": {
-      "value": "No"
+      "value": "Yes"
     },
     "enableAMBAWeb": {
-      "value": "No"
+      "value": "Yes"
     },
     "telemetryOptOut": {
       "value": "Yes"
