@@ -1,6 +1,6 @@
 variables:
   location: "canadacentral"
-  ManagementGroupPrefix: "alz-intermediate"
+  ManagementGroupPrefix: "intermediate-mg"
   serviceConnectionName: "alz-intermediate"
 
 pool:
