@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "platformManagementGroup": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "IdentityManagementGroup": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "managementManagementGroup": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "connectivityManagementGroup": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "LandingZoneManagementGroup": {
-      "value": "alz-intermediate"
+      "value": "intermediate-mg"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
