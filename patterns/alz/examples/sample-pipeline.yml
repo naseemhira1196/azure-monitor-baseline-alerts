@@ -1,7 +1,7 @@
 variables:
   location: "canadacentral"
   ManagementGroupPrefix: "intermediate-mg"
-  serviceConnectionName: "alz-intermediate"
+  serviceConnectionName: "intermediate-mg-spn"
 
 pool:
   vmImage: ubuntu-latest
