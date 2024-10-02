@@ -129,7 +129,7 @@
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ResHlthUnhealthyAlertState": {
-          "value": "false
+          "value": "false"
         },
         "ResHlthUnhealthyPolicyEffect": {
           "value": "deployIfNotExists"
