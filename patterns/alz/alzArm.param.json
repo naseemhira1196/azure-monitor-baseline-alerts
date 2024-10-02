@@ -36,7 +36,7 @@
       "value": "Yes"
     },
     "enableAMBAHybridVM": {
-      "value": "Yes"
+      "value": "No"
     },
     "enableAMBAKeyManagement": {
       "value": "Yes"
@@ -129,7 +129,7 @@
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ResHlthUnhealthyAlertState": {
-          "value": "true"
+          "value": "false
         },
         "ResHlthUnhealthyPolicyEffect": {
           "value": "deployIfNotExists"
@@ -2550,7 +2550,7 @@
           "value": "true"
         },
         "VMPercentMemoryThreshold": {
-          "value": "10"
+          "value": "20"
         },
         "VMPercentMemoryOperator": {
           "value": "GreaterThan"
