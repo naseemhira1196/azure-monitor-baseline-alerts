@@ -132,7 +132,7 @@
           "value": "true"
         },
         "ResHlthUnhealthyPolicyEffect": {
-          "value": "disabled"
+          "value": "deployIfNotExists"
         },
         "SvcHlthAdvisoryAlertState": {
           "value": "true"
