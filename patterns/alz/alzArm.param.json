@@ -2556,7 +2556,7 @@
           "value": "true"
         },
         "VMPercentMemoryThreshold": {
-          "value": "20"
+          "value": "30"
         },
         "VMPercentMemoryOperator": {
           "value": "GreaterThan"
